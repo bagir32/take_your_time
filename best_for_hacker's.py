@@ -1,4 +1,4 @@
-mport webbrowser
+import webbrowser
 import time
 import colorama
 from colorama import Fore
