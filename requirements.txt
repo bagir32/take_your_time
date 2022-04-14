@@ -1,0 +1,2 @@
+# required python packages to install
+colorama
